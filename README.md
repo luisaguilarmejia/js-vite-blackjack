@@ -7,6 +7,7 @@ Pasos para ejecutar el proyecto:
 3. Correr el devServer ```npm run dev```
 4. Abrir el proyecto en: ```http://localhosta:300```
 5. Esto es una prueba mas... ```Luis-Aguilar```
+6. Prueba a través ```Source control```
 
 ## Producción
 
