@@ -6,6 +6,7 @@ Pasos para ejecutar el proyecto:
 2. Ejecutar ``` npm install ``` para construir los módulos de node
 3. Correr el devServer ```npm run dev```
 4. Abrir el proyecto en: ```http://localhosta:300```
+5. Esto es una prueba mas... ```Luis-Aguilar```
 
 ## Producción
 
